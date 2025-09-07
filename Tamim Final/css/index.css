@@ -1,0 +1,2 @@
+/* Bootstrap-based home grid image height */
+.card-img-top { object-fit: cover; height: 200px; }

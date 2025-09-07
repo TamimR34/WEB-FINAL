@@ -1,0 +1,6 @@
+/* Account page layout adjustments */
+.account-wrap { display: flex; gap: 1rem; flex-wrap: wrap; }
+.account-panel { flex: 1 1 340px; }
+
+.danger-outline { border-color: #f5c2c7 !important; }
+
